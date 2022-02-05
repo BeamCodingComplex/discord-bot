@@ -1,4 +1,4 @@
-# SaltBot
+# Rapid Discord Bot
 
 ### 💝 Features & Commands
 
